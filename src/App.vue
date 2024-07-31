@@ -4,6 +4,7 @@
 
 <template>
   <!-- template section  -->
+   Hello World!
 </template>
 
 <style scoped>
